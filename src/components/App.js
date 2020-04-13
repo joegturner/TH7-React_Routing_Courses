@@ -15,7 +15,7 @@ import Featured from './Featured';
 import NotFound from './NotFound';
 
 const App = () => (
-  <BrowserRouter>
+  <BrowserRouter basename="/TH7-React_Routing_Courses">
     <div className="container">
       <Header />
 
